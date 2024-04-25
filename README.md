@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <img src="https://avatars.githubusercontent.com/u/83374556?v=4" width="100"/>
+  <img src="//wsrv.nl/?url=avatars.githubusercontent.com/u/83374556%3Fv=4&w=300&h=300">
+</div>
+
+[Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DataNext27&theme=tokyonight)
+
 ### Hi there 👋
 
 <!--
