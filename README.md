@@ -55,7 +55,7 @@ I'm a french student and I like creating stuff from useless to really useful thi
   <div id="learning">
     <h3>What I'm learning :</h3>
     <ul>
-      <li>How to make proper C# API/SDK/Packages</li>
+      <li>How to make proper C# API/SDK/Libraries/Packages</li>
     </ul>
   </div>
   <div id="want-to-learn">
