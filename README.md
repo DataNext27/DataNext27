@@ -1,13 +1,12 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/83374556?v=4" width="100"/>
-  <img src="//wsrv.nl/?url=avatars.githubusercontent.com/u/83374556%3Fv=4&w=300&h=300">
+  <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/83374556%3Fv=4&w=100&h=100&mask=circle">
 </div>
 
-[Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DataNext27&theme=tokyonight)
-
-### Hi there 👋
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DataNext27&theme=tokyonight)
 
 <!--
+### Hi there 👋
+
 **DataNext27/DataNext27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
