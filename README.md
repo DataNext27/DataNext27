@@ -5,7 +5,7 @@
     <a href="https://www.youtube.com/channel/UCp6U8_f-4Fe2YtH-dbyr-Qg">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCp6U8_f-4Fe2YtH-dbyr-Qg">
+    <a href="https://www.twitch.tv/datanext">
       <img src="https://img.shields.io/badge/Twitch-a?style=for-the-badge&logo=twitch&logoColor=white&color=6441a5" alt="Twitch Badge"/>
     </a>
     <a href="https://twitter.com/DataNext_">
