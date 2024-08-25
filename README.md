@@ -25,8 +25,8 @@
 
 ## 📂 About Me :
 I'm a french student and I like creating stuff from useless to really useful things such as plugins or games
-  - Age : 17
-  - Studies : High School
+  - Age : 18
+  - Studies : Engineering School
   - Location : France
   - Known languages : French & English
 
@@ -54,9 +54,7 @@ I'm a french student and I like creating stuff from useless to really useful thi
   </div>
   <div id="learning">
     <h3>What I'm learning :</h3>
-    <ul>
-      <li>How to make proper C# API/SDK/Libraries/Packages</li>
-    </ul>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot Enginge" alt="Godot" width="40" heght="40">
   </div>
   <div id="want-to-learn">
     <h3>What I'd like to learn :</h3>
