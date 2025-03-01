@@ -51,19 +51,19 @@ I'm a french student and I like creating stuff from useless to really useful thi
     <img src="https://github.com/devicons/devicon/blob/master/icons/traefikproxy/traefikproxy-plain-wordmark.svg" title="traefik" alt="traefik" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40">
   </div>
   <div id="learning">
     <h3>What I'm learning :</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot Enginge" alt="Godot" width="40" heght="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40">
   </div>
   <div id="want-to-learn">
     <h3>What I'd like to learn :</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodeJS" alt="nodeJS" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40">
   </div>
 </div>
